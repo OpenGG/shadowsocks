@@ -1,3 +1,5 @@
+Forked from shadowsocks 2.8.2
+
 shadowsocks
 ===========
 
